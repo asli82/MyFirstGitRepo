@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Gulnoza's Recipes</title>
+</head>
+	<body>
+	
+	
+		<center><img height="112" width="200" src="hat.png"></center>
+		<font size="6" color="red">
+		<p align="center" >My Recipes</p>
+		</font>
+		
+		<table style="width:100%">
+			<tr>
+				<th align="left">Popular Recipes | Whats New</th>
+				<th align="right">Categories | Meal Ideas</th>
+				</tr>
+		</table>
+		
+		
+		<div style=height:450px;background-image:url(https://cybertekschool.com//wp-content/uploads/2016/11/h8-parallax-2.jpg);</div>
+	
+		
+		<font size="5" color="red">
+		<p align="center" >Join our email club</p>
+		<p align="center" >Sign up now!</p>
+		</font>
+		
+		<center>
+			<input type = "text" placeholder = "first-name">
+<input type = "text" placeholder = "last-name">
+<br> 
+<input type="text" placeholder="email">
+<input type="password" placeholder="password">
+<br>
+		</center>
+
+		<br>
+		<center><input type="submit" value="CLICK HERE"></center>
+		<br><br><br><br>
+		<center><table style="width:50%">
+			<tr>
+				<th><center><img height="200" width="520" src="plate1.jpg"></center></th>
+				<th><center><img height="200" width="520" src="plate1.jpg"></center></th> 
+			</tr>
+		</table></center>
+		<br>
+		<center><table style="width:50%">
+			<tr>
+				<th><center><img height="300" width="300" src="veg.jpg"></center></th>
+				<th><center><img height="300" width="300" src="pasta.jpg"></center></th> 
+				<th><center><img height="300" width="300" src="lemon.jpg"></center></th> 
+			</tr>
+		</table></center>
+		<center><p>About Us | Contact Us | Suggest a Recipe | Privacy</p></center>
+
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3103.7232292315484!2d-77.2202829849143!3d38.93030307956557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b64abfe10efdab%3A0x8b0b92184f4872f3!2sCybertek+School!5e0!3m2!1sen!2sus!4v1528147122659" width="1250" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+	</body>
+</html>
