@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>MyRecipe changed lastly</title>
+	<title>MyRecipe made changed</title>
 
 
 </head>	
